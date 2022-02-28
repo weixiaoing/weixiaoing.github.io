@@ -3,12 +3,13 @@
   <entry>
     <title>html</title>
     <url>/2022/02/28/html/</url>
-    <content><![CDATA[<!doctype html>
-<pre><code>&lt;head&gt;
-    &lt;meta charset=&quot;utf-8&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;未晓&quot;&gt;
-    &lt;title&gt;实训&lt;/title&gt;
-</code></pre>
+    <content><![CDATA[<p><strong>html 實訓 1.01</strong></p>
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="未晓">
+        <title>实训</title>
 </head>
 <body>
     <h1 align="middle">
@@ -26,10 +27,12 @@
         荷花素妆，<br/>
         刚好遇见你。
     </p>
+    <body>
+    <html/>
 
 
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!doctype html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;meta charset=&quot;utf-8&quot;&gt;</span><br><span class="line">        &lt;meta name=&quot;author&quot; content=&quot;未晓&quot;&gt;</span><br><span class="line">        &lt;title&gt;实训&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">    &lt;h1 align=&quot;middle&quot;&gt;</span><br><span class="line">        刚好遇见你</span><br><span class="line">    &lt;/h1&gt;</span><br><span class="line">    &lt;p&gt;</span><br><span class="line">        粉色淡雅，舒心暖&lt;br/&gt;</span><br><span class="line">        朦胧梦境，浓雾绵绵，漫漫青树，茫茫密林。&lt;br/&gt;</span><br><span class="line">        你，撑伞花雨间，青藤绕碧绿，&lt;br/&gt;</span><br><span class="line">        幽径，暗涩 你，清新脱俗般，如仙女下凡。&lt;br/&gt;</span><br><span class="line">        风飘裙，凝视，花容月色，我欲醉其间。&lt;br/&gt;</span><br><span class="line">        &lt;img src=&quot;/img/1.01.png&quot;  /&gt; &lt;br/&gt;</span><br><span class="line">        芬芳繁花间，情悠扬。&lt;br/&gt;</span><br><span class="line">        花瓣间，你的香&lt;br/&gt;</span><br><span class="line">        荷花素妆，&lt;br/&gt;</span><br><span class="line">        刚好遇见你。</span><br><span class="line">    &lt;/p&gt;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!doctype html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;meta charset=&quot;utf-8&quot;&gt;</span><br><span class="line">        &lt;meta name=&quot;author&quot; content=&quot;未晓&quot;&gt;</span><br><span class="line">        &lt;title&gt;实训&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">    &lt;h1 align=&quot;middle&quot;&gt;</span><br><span class="line">        刚好遇见你</span><br><span class="line">    &lt;/h1&gt;</span><br><span class="line">    &lt;p&gt;</span><br><span class="line">        粉色淡雅，舒心暖&lt;br/&gt;</span><br><span class="line">        朦胧梦境，浓雾绵绵，漫漫青树，茫茫密林。&lt;br/&gt;</span><br><span class="line">        你，撑伞花雨间，青藤绕碧绿，&lt;br/&gt;</span><br><span class="line">        幽径，暗涩 你，清新脱俗般，如仙女下凡。&lt;br/&gt;</span><br><span class="line">        风飘裙，凝视，花容月色，我欲醉其间。&lt;br/&gt;</span><br><span class="line">        &lt;img src=&quot;/img/1.01.png&quot;  /&gt; &lt;br/&gt;</span><br><span class="line">        芬芳繁花间，情悠扬。&lt;br/&gt;</span><br><span class="line">        花瓣间，你的香&lt;br/&gt;</span><br><span class="line">        荷花素妆，&lt;br/&gt;</span><br><span class="line">        刚好遇见你。</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line">    &lt;body&gt;</span><br><span class="line">    &lt;html/&gt;</span><br></pre></td></tr></table></figure>
 
 ]]></content>
   </entry>
