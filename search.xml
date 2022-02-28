@@ -3,8 +3,7 @@
   <entry>
     <title>html</title>
     <url>/2022/02/28/html/</url>
-    <content><![CDATA[<p><strong>html 基础实训 1.01</strong></p>
-<!doctype html>
+    <content><![CDATA[<!doctype html>
 <pre><code>&lt;head&gt;
     &lt;meta charset=&quot;utf-8&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;未晓&quot;&gt;
