@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/02/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>html</title>
+    <url>/2022/02/28/html/</url>
+    <content><![CDATA[<p><strong>html 基础实训 1.01</strong></p>
+<!doctype html>
+<body>
+    <h1 align="middle">
+        刚好遇见你
+    </h1>
+    <p>
+        粉色淡雅，舒心暖<br/>
+        朦胧梦境，浓雾绵绵，漫漫青树，茫茫密林。<br/>
+        你，撑伞花雨间，青藤绕碧绿，<br/>
+        幽径，暗涩 你，清新脱俗般，如仙女下凡。<br/>
+        风飘裙，凝视，花容月色，我欲醉其间。<br/>
+        <img src="/img/1.01.png"  /> <br/>
+        芬芳繁花间，情悠扬。<br/>
+        花瓣间，你的香<br/>
+        荷花素妆，<br/>
+        刚好遇见你。
+    </p>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!doctype html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;meta charset=&quot;utf-8&quot;&gt;</span><br><span class="line">        &lt;meta name=&quot;author&quot; content=&quot;未晓&quot;&gt;</span><br><span class="line">        &lt;title&gt;实训&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">    &lt;h1 align=&quot;middle&quot;&gt;</span><br><span class="line">        刚好遇见你</span><br><span class="line">    &lt;/h1&gt;</span><br><span class="line">    &lt;p&gt;</span><br><span class="line">        粉色淡雅，舒心暖&lt;br/&gt;</span><br><span class="line">        朦胧梦境，浓雾绵绵，漫漫青树，茫茫密林。&lt;br/&gt;</span><br><span class="line">        你，撑伞花雨间，青藤绕碧绿，&lt;br/&gt;</span><br><span class="line">        幽径，暗涩 你，清新脱俗般，如仙女下凡。&lt;br/&gt;</span><br><span class="line">        风飘裙，凝视，花容月色，我欲醉其间。&lt;br/&gt;</span><br><span class="line">        &lt;img src=&quot;/img/1.01.png&quot;  /&gt; &lt;br/&gt;</span><br><span class="line">        芬芳繁花间，情悠扬。&lt;br/&gt;</span><br><span class="line">        花瓣间，你的香&lt;br/&gt;</span><br><span class="line">        荷花素妆，&lt;br/&gt;</span><br><span class="line">        刚好遇见你。</span><br><span class="line">    &lt;/p&gt;</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
 </search>
